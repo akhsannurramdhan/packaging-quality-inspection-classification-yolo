@@ -1,0 +1,15 @@
+path: D:/dataset1
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 3
+names: ['layak_edar', 'penyok', 'sobek']
+
+roboflow:
+  workspace: packaging-permen-jahe-okm57
+  project: kemasan-permen-jahe
+  version: 3
+  license: Private
+  url: https://app.roboflow.com/packaging-permen-jahe-okm57/kemasan-permen-jahe/3

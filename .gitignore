@@ -1,0 +1,25 @@
+# Virtual Environment
+skripsi_env/
+venv/
+.env
+
+# Model Weights
+*.pt
+*.onnx
+*.engine
+
+# Python
+__pycache__/
+*.pyc
+
+# Training Results
+runs/
+result/
+
+# OS
+.DS_Store
+Thumbs.db
+
+train/
+valid/
+test/
