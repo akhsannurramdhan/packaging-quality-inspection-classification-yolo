@@ -100,15 +100,18 @@ The model achieved high detection performance across all packaging categories an
 
 ### Layak Edar Detection
 
-(Add screenshot here)
+<img width="1920" height="1920" alt="val_batch0_labels" src="https://github.com/user-attachments/assets/0d034b12-4a80-47f2-8450-b97acd51511d" />
+
 
 ### Penyok Detection
 
-(Add screenshot here)
+<img width="1920" height="1920" alt="val_batch1_labels" src="https://github.com/user-attachments/assets/47c1ff5f-4c40-44b2-bd48-d65d20bc31ab" />
+
 
 ### Sobek Detection
 
-(Add screenshot here)
+<img width="1920" height="1920" alt="val_batch2_pred" src="https://github.com/user-attachments/assets/82438785-75b4-4745-9515-c372155851a1" />
+
 
 ---
 
