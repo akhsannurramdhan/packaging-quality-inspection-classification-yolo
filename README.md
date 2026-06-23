@@ -1,8 +1,8 @@
-# Packaging Quality Inspection Classification Using YOLOv8
+# Packaging Quality Inspection Classification Using YOLOv10
 
 ## Overview
 
-This project implements a computer vision-based packaging quality inspection system using YOLOv8 to classify ginger candy packaging conditions.
+This project implements a computer vision-based packaging quality inspection system using YOLOv10 to classify ginger candy packaging conditions.
 
 The system was developed as part of an undergraduate thesis project to assist local MSME (UMKM) ginger candy producers in automating the packaging inspection process and improving quality control efficiency.
 
@@ -17,7 +17,7 @@ Manual packaging inspection is often:
 * Prone to human error
 * Difficult to scale during high production demand
 
-This project addresses these challenges by utilizing a YOLOv8 object detection model capable of automatically identifying packaging conditions from captured images.
+This project addresses these challenges by utilizing a YOLOv10 object detection model capable of automatically identifying packaging conditions from captured images.
 
 ---
 
@@ -45,7 +45,7 @@ The model classifies packaging into three categories:
 ## Technology Stack
 
 * Python
-* YOLOv8
+* YOLOv10
 * Ultralytics
 * OpenCV
 * NumPy
@@ -68,14 +68,14 @@ Dataset Characteristics:
 
 ## Model Training
 
-The model was trained using YOLOv8 on a custom packaging dataset.
+The model was trained using YOLOv10 on a custom packaging dataset.
 
 Training Pipeline:
 
 1. Data Collection
 2. Data Annotation
 3. Dataset Preparation
-4. YOLOv8 Training
+4. YOLOv10 Training
 5. Validation & Evaluation
 6. Deployment Testing
 
